@@ -221,3 +221,6 @@ for(let i = 0; i < colors.length; i++) {
     - How to push git to github (pinned to discord)
 */
 
+
+
+// this is a test: adding 1 comment and pushing changes to github
